@@ -11,3 +11,8 @@ Fichiers fournis :
  - Fichiers indispensables (ponw.py et ponw_def.txt)
  - Un exemple d'intégration des informations d'angles dans une feuille de style
  - Licence, readme.
+ 
+Use : 
+ - Copy files ponw.py & ponw_def.txt to Maperitive main folder (where Maperitive.exe is).
+ - In Maperitive, open OSM data file and apply stylesheet. For integration in .mrules file, see example of rules.mrules.
+ - In command-line, use : « run-python ponw.py ». 
