@@ -1,5 +1,7 @@
 Permet d'orienter certains éléments ponctuels de chemins, par exemple, une barrière sur un sentier, une cascade sur une rivière.
 
+Exemple d'utilisation : http://jb.isonoe.net/PonW/Demo_orientation.png (cherchez les cascades et les barrières !)
+
 Utilisation : 
  - Copier les deux fichiers ponw.py et ponw_def.txt dans le répertoire Maperitive (au même niveau que l'exécutable Maperitive.exe).
  - Dans Maperitive, ouvrir le fichier de données OpenStreetMap à traiter et appliquer la feuille de style adaptée.
