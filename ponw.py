@@ -5,7 +5,7 @@ from maperipy import *
 from maperipy.osm import *
 import math
 
-def_file="./R25/Python/ponw_def.txt"
+def_file="ponw_def.txt"
 
 def read_kv(s):
 	"""Lit un tag sous la forme key:value1,value2… et renvoit (key,[value1,value2]"""
