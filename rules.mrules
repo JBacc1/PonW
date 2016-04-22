@@ -1,0 +1,282 @@
+	target: has_angle	
+		for: angle AND NOT (has_angle AND @isFalse(has_angle))
+			for: angle < 1
+				define
+					angle: 0
+			elsefor: angle < 3
+				define
+					angle: 2
+			elsefor: angle < 5
+				define
+					angle: 4
+			elsefor: angle < 7
+				define
+					angle: 6
+			elsefor: angle < 9
+				define
+					angle: 8
+			elsefor: angle < 11
+				define
+					angle: 10
+			elsefor: angle < 13
+				define
+					angle: 12
+			elsefor: angle < 15
+				define
+					angle: 14
+			elsefor: angle < 17
+				define
+					angle: 16
+			elsefor: angle < 19
+				define
+					angle: 18
+			elsefor: angle < 21
+				define
+					angle: 20
+			elsefor: angle < 23
+				define
+					angle: 22
+			elsefor: angle < 25
+				define
+					angle: 24
+			elsefor: angle < 27
+				define
+					angle: 26
+			elsefor: angle < 29
+				define
+					angle: 28
+			elsefor: angle < 31
+				define
+					angle: 30
+			elsefor: angle < 33
+				define
+					angle: 32
+			elsefor: angle < 35
+				define
+					angle: 34
+			elsefor: angle < 37
+				define
+					angle: 36
+			elsefor: angle < 39
+				define
+					angle: 38
+			elsefor: angle < 41
+				define
+					angle: 40
+			elsefor: angle < 43
+				define
+					angle: 42
+			elsefor: angle < 45
+				define
+					angle: 44
+			elsefor: angle < 47
+				define
+					angle: 46
+			elsefor: angle < 49
+				define
+					angle: 48
+			elsefor: angle < 51
+				define
+					angle: 50
+			elsefor: angle < 53
+				define
+					angle: 52
+			elsefor: angle < 55
+				define
+					angle: 54
+			elsefor: angle < 57
+				define
+					angle: 56
+			elsefor: angle < 59
+				define
+					angle: 58
+			elsefor: angle < 61
+				define
+					angle: 60
+			elsefor: angle < 63
+				define
+					angle: 62
+			elsefor: angle < 65
+				define
+					angle: 64
+			elsefor: angle < 67
+				define
+					angle: 66
+			elsefor: angle < 69
+				define
+					angle: 68
+			elsefor: angle < 71
+				define
+					angle: 70
+			elsefor: angle < 73
+				define
+					angle: 72
+			elsefor: angle < 75
+				define
+					angle: 74
+			elsefor: angle < 77
+				define
+					angle: 76
+			elsefor: angle < 79
+				define
+					angle: 78
+			elsefor: angle < 81
+				define
+					angle: 80
+			elsefor: angle < 83
+				define
+					angle: 82
+			elsefor: angle < 85
+				define
+					angle: 84
+			elsefor: angle < 87
+				define
+					angle: 86
+			elsefor: angle < 89
+				define
+					angle: 88
+			elsefor: angle < 91
+				define
+					angle: 90
+			elsefor: angle < 93
+				define
+					angle: 92
+			elsefor: angle < 95
+				define
+					angle: 94
+			elsefor: angle < 97
+				define
+					angle: 96
+			elsefor: angle < 99
+				define
+					angle: 98
+			elsefor: angle < 101
+				define
+					angle: 100
+			elsefor: angle < 103
+				define
+					angle: 102
+			elsefor: angle < 105
+				define
+					angle: 104
+			elsefor: angle < 107
+				define
+					angle: 106
+			elsefor: angle < 109
+				define
+					angle: 108
+			elsefor: angle < 111
+				define
+					angle: 110
+			elsefor: angle < 113
+				define
+					angle: 112
+			elsefor: angle < 115
+				define
+					angle: 114
+			elsefor: angle < 117
+				define
+					angle: 116
+			elsefor: angle < 119
+				define
+					angle: 118
+			elsefor: angle < 121
+				define
+					angle: 120
+			elsefor: angle < 123
+				define
+					angle: 122
+			elsefor: angle < 125
+				define
+					angle: 124
+			elsefor: angle < 127
+				define
+					angle: 126
+			elsefor: angle < 129
+				define
+					angle: 128
+			elsefor: angle < 131
+				define
+					angle: 130
+			elsefor: angle < 133
+				define
+					angle: 132
+			elsefor: angle < 135
+				define
+					angle: 134
+			elsefor: angle < 137
+				define
+					angle: 136
+			elsefor: angle < 139
+				define
+					angle: 138
+			elsefor: angle < 141
+				define
+					angle: 140
+			elsefor: angle < 143
+				define
+					angle: 142
+			elsefor: angle < 145
+				define
+					angle: 144
+			elsefor: angle < 147
+				define
+					angle: 146
+			elsefor: angle < 149
+				define
+					angle: 148
+			elsefor: angle < 151
+				define
+					angle: 150
+			elsefor: angle < 153
+				define
+					angle: 152
+			elsefor: angle < 155
+				define
+					angle: 154
+			elsefor: angle < 157
+				define
+					angle: 156
+			elsefor: angle < 159
+				define
+					angle: 158
+			elsefor: angle < 161
+				define
+					angle: 160
+			elsefor: angle < 163
+				define
+					angle: 162
+			elsefor: angle < 165
+				define
+					angle: 164
+			elsefor: angle < 167
+				define
+					angle: 166
+			elsefor: angle < 169
+				define
+					angle: 168
+			elsefor: angle < 171
+				define
+					angle: 170
+			elsefor: angle < 173
+				define
+					angle: 172
+			elsefor: angle < 175
+				define
+					angle: 174
+			elsefor: angle < 177
+				define
+					angle: 176
+			elsefor: angle < 179
+				define
+					angle: 178
+			else
+				define
+					angle: 179.5
+		define
+			shape: custom
+			shape-def: m:-3,0;l:3,0
+			shape-size: 6
+			line-width: 1.8
+			line-color: blue
+		draw: shape

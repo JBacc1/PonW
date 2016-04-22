@@ -1,0 +1,7 @@
+#Syntaxe : way_key:way_value1,way_value2,way_value3…;node_key:node_value1,node_value2…
+#Si pas de valeur spécifique : way_key;node_key 
+#Ou combinaison des deux systèmes.
+
+highway;barrier
+waterway:stream,river ; waterway:dam,weir,waterfall,lock_gate
+waterway;lock:yes
