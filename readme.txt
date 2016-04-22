@@ -14,5 +14,5 @@ Fichiers fournis :
  
 Use : 
  - Copy files ponw.py & ponw_def.txt to Maperitive main folder (where Maperitive.exe is).
- - In Maperitive, open OSM data file and apply stylesheet. For integration in .mrules file, see example of rules.mrules.
+ - In Maperitive, open OSM data file and apply stylesheet. For integration of orientation information in .mrules file, see example of rules.mrules.
  - In command-line, use : « run-python ponw.py ». 
